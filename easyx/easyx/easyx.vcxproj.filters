@@ -21,5 +21,8 @@
     <ClCompile Include="02 画小房子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 为小房子添加样式和颜色.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
