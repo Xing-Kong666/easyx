@@ -126,6 +126,7 @@
     <ClCompile Include="01 创建窗口.cpp" />
     <ClCompile Include="02 画小房子.cpp" />
     <ClCompile Include="03 为小房子添加样式和颜色.cpp" />
+    <ClCompile Include="04 接收并识别消息.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

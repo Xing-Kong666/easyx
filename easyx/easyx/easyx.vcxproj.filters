@@ -24,5 +24,8 @@
     <ClCompile Include="03 为小房子添加样式和颜色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04 接收并识别消息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
