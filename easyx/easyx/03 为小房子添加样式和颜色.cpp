@@ -1,7 +1,7 @@
 #include <graphics.h>
 #include <conio.h>
 
-int main() {
+int main03() {
 	//初始化窗口
 	initgraph(1000, 1100);
 	//更改背景颜色设置为蓝色，并清空原来的填充重新绘制
