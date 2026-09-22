@@ -1,6 +1,6 @@
 #include <graphics.h>
 #include <conio.h>
-int main() {
+int main05() {
 	//³õÊ¼»¯´°¿Ú
 	initgraph(1000, 1100);
 

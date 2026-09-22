@@ -128,6 +128,7 @@
     <ClCompile Include="03 为小房子添加样式和颜色.cpp" />
     <ClCompile Include="04 接收并识别消息.cpp" />
     <ClCompile Include="05 画板.cpp" />
+    <ClCompile Include="06 输出宽字符和接收输出.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
