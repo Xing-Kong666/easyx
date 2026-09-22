@@ -27,5 +27,8 @@
     <ClCompile Include="04 接收并识别消息.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 画板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
