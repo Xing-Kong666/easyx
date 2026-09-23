@@ -131,6 +131,7 @@
     <ClCompile Include="06 输出宽字符和接收输出.cpp" />
     <ClCompile Include="07 图片绘制.cpp" />
     <ClCompile Include="08 动画绘制与闪退处理.cpp" />
+    <ClCompile Include="09 音乐播放与音量设置.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

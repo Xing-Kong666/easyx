@@ -39,5 +39,8 @@
     <ClCompile Include="08 动画绘制与闪退处理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09 音乐播放与音量设置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
