@@ -1,7 +1,7 @@
 #include <graphics.h>
 #include <conio.h>
 #include <stdio.h>
-int main() {
+int main06() {
 	//初始化窗口
 	initgraph(1000, 1100);
 
@@ -32,14 +32,19 @@ int main() {
 	//进行宽字符串拼接
 	wsprintf(arr, L"宽字符串拼接");
 	outtextxy(50, 50, arr);
-	//卡住程序保持运行状态
+
 
 	char mul[100] = "hello world!";
 	wchar_t wmul[100]=L"";
+
+	//普通字符转宽字符，前2个0默认
 	MultiByteToWideChar(0,0,mul,8,wmul,100);
 	outtextxy(300, 300, wmul);
+
+	//宽字符转普通字符，前后4个0默认
 	WideCharToMultiByte(0, 0, L"你好世界", 4, mul, 100, 0, 0);
-	outtextxy(400, 400, wmul);
+
+	//卡住程序保持运行状态
 	_getch();
 	//关闭窗口
 	closegraph();
