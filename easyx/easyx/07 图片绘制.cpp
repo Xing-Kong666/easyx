@@ -37,7 +37,7 @@ void drawAlpha(int picture_x, int picture_y, IMAGE* picture) //xÎªÔØÈëÍ¼Æ¬µÄX×ø±
 			}
 		}
 }
-int main() {
+int main07() {
 	//³õÊ¼»¯´°¿Ú
 	initgraph(800, 600);
 	

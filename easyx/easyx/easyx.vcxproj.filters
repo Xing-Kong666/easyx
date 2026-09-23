@@ -36,5 +36,8 @@
     <ClCompile Include="07 图片绘制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08 动画绘制与闪退处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

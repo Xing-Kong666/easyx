@@ -130,6 +130,7 @@
     <ClCompile Include="05 画板.cpp" />
     <ClCompile Include="06 输出宽字符和接收输出.cpp" />
     <ClCompile Include="07 图片绘制.cpp" />
+    <ClCompile Include="08 动画绘制与闪退处理.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
